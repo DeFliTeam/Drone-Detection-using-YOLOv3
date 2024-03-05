@@ -109,4 +109,4 @@ Edit "surveillance_conf.py" and "alert.py" to set your paraemters then run
 > $ python alert.py
 > ```
 
-
+## GPLv3 License
