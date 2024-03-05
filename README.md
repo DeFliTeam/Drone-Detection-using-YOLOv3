@@ -102,7 +102,11 @@ Compute the mAP performance of the model defined in saved_weights_name on the va
    > $ python evaluate.py -c config.json
    > ```
 
-## OUTPUT
+## Alerts to Phone
 
+Edit "surveillance_conf.py" and "alert.py" to set your paraemters then run 
+> ```shell
+> $ python alert.py
+> ```
 
 
