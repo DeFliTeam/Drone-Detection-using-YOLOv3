@@ -4,7 +4,7 @@ Detect drones from input image, video or real-time feed.
 ## Requirements
 
 - Refer to requirement.txt for environment specifications.
-- Download the pre-trained YOLOv3 weights from [here.](https://universe.roboflow.com/drones-detection-nyysg/drones-detection-hz6ui/dataset/1/download/voc)
+- Download the pre-trained YOLOv3 weights from here https://universe.roboflow.com/drones-detection-nyysg/drones-detection-hz6ui/dataset/1/download/voc
 - Download an image of a dog to test object detection.
 
   > ```shell 
